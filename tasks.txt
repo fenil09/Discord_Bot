@@ -1,3 +1,5 @@
 1. Setting up the Bot for Basic Interaction
 2. Registering a joke command and adding the functionality of getting a custom joke
-when the user request for it.
+when the user request for it. // Done
+3. Setting up Sentimental Analysis. // Done
+4. Giving the bot the ability to clear the messages in the chat server.

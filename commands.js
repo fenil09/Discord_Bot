@@ -8,6 +8,10 @@ const commands = [
         name:'joke',
         description:'Replies the user with an joke from an custom API',
     },
+    {
+      name:'chatclear',
+      description: 'Helps to clear the chat'
+    }
 ];
 
 const rest = new REST({version: '10'}).setToken(token)
